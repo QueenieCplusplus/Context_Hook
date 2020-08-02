@@ -12,5 +12,9 @@ context 適用於情境如下：
 
 * Resolver 需要解析函數操作的資料
   詳見 Apollo Data Source。
+  
+# 宣告方式
+
+React.createContext({}).
 
 
