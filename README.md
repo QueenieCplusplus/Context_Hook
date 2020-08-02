@@ -15,6 +15,13 @@ context 適用於情境如下：
   
 # 宣告方式
 
-React.createContext({}).
+    React.createContext({})
+    
+# 使用方式
+
+    React.createContext({}).Provider
+    React.createContext({}).Consumer
+
+     
 
 
